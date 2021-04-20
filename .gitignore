@@ -1,0 +1,14 @@
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+
+Podfile.lock
+
+.project
+
+
+
+build/
